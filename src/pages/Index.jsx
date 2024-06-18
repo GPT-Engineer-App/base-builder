@@ -5,8 +5,8 @@ const Index = () => {
   return (
     <Container centerContent maxW="container.md" height="100vh" display="flex" flexDirection="column" justifyContent="center" alignItems="center">
       <VStack spacing={4}>
-        <Heading as="h1" size="2xl">Welcome to Your New App</Heading>
-        <Text fontSize="lg">This is a minimalistic application structure. Start building your amazing app here!</Text>
+        <Heading as="h1" size="2xl">Get Hot Leads from ChatGPT!</Heading>
+        <Text fontSize="lg">Discover</Text>
         <Button leftIcon={<FaEdit />} colorScheme="teal" size="lg">
           Get Started
         </Button>
